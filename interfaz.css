@@ -1,0 +1,13 @@
+
+.bg-white {
+    background-color: #fff;
+}
+
+#descripcion {
+    resize: none;
+}
+
+.centrado {
+    text-align: center;
+    vertical-align: middle;
+}
